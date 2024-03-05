@@ -1,9 +1,9 @@
 import java.util.*;
 
-public class thirtyfive{
+public class oldthirtyfive{
 
     public static void main (String args[]){
-        thirtyfive obj = new thirtyfive();
+        oldthirtyfive obj = new oldthirtyfive();
         System.out.println(obj.old35(3));
         System.out.println(obj.old35(10));
         System.out.println(obj.old35(15));
