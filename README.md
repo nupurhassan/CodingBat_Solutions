@@ -1,1 +1,1 @@
-# CodingBat_Solutions
+# CodingBat_Solutions_Java
